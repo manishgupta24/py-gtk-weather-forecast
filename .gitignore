@@ -1,0 +1,21 @@
+# Environment Folders
+
+.env
+.env/
+.venv
+.venv/
+env
+env/
+venv
+venv/
+
+# Ignore Compiled Files
+
+*.pyc
+__pycache__/
+.__pycache__/
+
+# Vscode Settings
+
+.vscode
+.vscode/
