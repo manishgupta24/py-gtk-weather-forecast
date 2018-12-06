@@ -17,3 +17,8 @@ In the Temrature chart both the high and low temprature range are plotted.
 - chmod +x install.sh
 - ./install.sh (Install using sudo if permission denied error is raised.)
 - env/bin/python main.py (or python main.py if virtualenv is activated)
+- env/bin/python tests.py (For Running Tests)
+
+
+This project only implements the basic functionality i.e. displays only the temperature forecast using sqlite.
+A lot of optimizations can be done on data storage part. MultiThreading can be used to save and display data in parallel.

@@ -11,3 +11,6 @@ python3 -m venv env
 
 echo "Installing pip packages"
 env/bin/pip install -r requirements.txt
+
+echo "Running Tests"
+env/bin/python tests.py
